@@ -1,4 +1,5 @@
 edited by Xiaoji Emulator.
+http://www.xiaoji001.com/
 
 below is origin sources:
 https://github.com/natdon/ONScripter-CN
