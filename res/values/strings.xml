@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiNE</string>
+    
+    <string name="private_version">1361373546.19</string>
+
+	<!-- Option -->
+	
+	<string name="Opt_ForceButtonShortcut">Force Button Shortcut</string>
+	<string name="Opt_DisableRescale">Disable Rescale</string>
+	<string name="Opt_RenderFontOutline">Render Font Outline</string>
+	
+	<!-- Environment -->
+	
+	<string name="Env_PDAWidth">Width (pda only)</string>
+
+    	<string name="go">go</string>
+    	<string name="nulltime">--:--:--</string>
+
+	<!-- Key -->
+	
+	<string name="Key_Space">Space</string>
+	<string name="Key_Enter">Enter</string>
+	<string name="Key_Escape">ESC</string>
+	<string name="Key_LeftClick">Left Click</string>
+	<string name="Key_RightClick">Right Click</string>
+	<string name="Key_ForceSkip">Force Skip</string>
+	<string name="Key_PrevChoice">Prev</string>
+	<string name="Key_NextChoice">Next</string>
+	<string name="Key_WheelUp">Up</string>
+	<string name="Key_WheelDown">Down</string>
+	<string name="Key_SkipMode">Skip Mode</string>
+	<string name="Key_OnePage">One Page</string>
+	<string name="Key_AutoMode">Auto Mode</string>
+	<string name="Key_TextSpeedChange">Text Speed Change</string>
+	<string name="Key_SlowTextSpeed">Slow Text Speed"</string>
+	<string name="Key_NormalTextSpeed">Normal Text Speed</string>
+	<string name="Key_FastTextSpeed">Fast Text Speed</string>
+	<string name="button_vol_up">Vol+</string>
+    	<string name="button_vol_down">Vol-</string>
+	<string name="button_get_default_screenshot">Screen Shot</string>
+   	 <string name="button_get_full_screenshot">Screen Shot</string>
+	<string name="button_Menu">Menu</string>
+	<string name="button_hide_window">Hide Window</string>
+	
+	<!-- -->
+	
+	<string name="None">None</string>
+	
+	<string name="Enable">Enable</string>
+	<string name="Disable">Disable</string>
+	
+	<string name="OK">OK</string>
+	<string name="Cancel">Cancel</string>
+	
+	<string name="Yes">Yes</string>
+	<string name="No">No</string>
+	
+	<string name="Use">Use</string>
+	<string name="NotUse">Not Use</string>
+	
+	<string name="Left">Left</string>
+	<string name="Right">Right</string>
+	<string name="Up">Up</string>
+	<string name="Down">Down</string>
+	<string name="Top">Top</string>
+	<string name="Bottom">Bottom</string>
+	<string name="Center">Center</string>
+	
+	<string name="LeftClick">LeftClick</string>
+	<string name="RightClick">RightClick</string>
+	
+	<string name="Landscape">Landscape</string>
+	<string name="Portrait">Portrait</string>
+	<string name="ReverseLandscape">Reverse Landscape</string>
+	<string name="ReversePortrait">Reverse Portrait</string>
+	
+	<string name="Full">Full Screen</string>
+	<string name="Unknown">Unknown </string>
+	
+	<string name="Invalid">Invalid</string>
+	<string name="Touch">Touch</string>
+	<string name="TrackPad">TrackPad</string>
+	<string name="GamePad">GamePad</string>
+	
+	<string name="Show">Show</string>
+	<string name="Hide">Hide</string>
+	
+	<string name="unit">unit</string>
+	
+	<string name="AsAxis">As Axis</string>
+	<string name="AsButton">As Button</string>
+	
+	<string name="Key">Key</string>
+	<string name="Button">Button</string>
+	
+	<string name="Error">Error</string>
+
+	<string name="Other">Other</string>
+	<string name="Quit">Quit</string>
+	
+	
+	<!-- App Launcher -->
+	<string name="Launch_CurrentDirectory">Current Directory</string>
+	<string name="Launch_ChangeDirectory">Change Directory</string>
+	<string name="Launch_ChooseDirectory">Choose Directory</string>
+	<string name="Launch_SetDirectory">Set Directory</string>
+	<string name="Launch_CouldNotOpenDirectory">Could Not Open Directory</string>
+	
+	<!-- App Launch Config -->
+	<string name="Conf_ExecuteModule">Execute Module</string>
+	<string name="Conf_VideoDepth">Video Depth</string>
+	<string name="Conf_ScreenRatio">Screen Ratio(Restart to Take Effect)</string>
+	<string name="Menu_ScreenRatio">Screen Ratio</string>
+	<string name="Conf_ScreenOrientation">Screen Orientation</string>
+	<string name="Conf_SmoothVideo">Smooth Video</string>
+	<string name="Conf_Linear">Linear</string>
+	<string name="Conf_DontAskMeAgain">Dont Ask Me Again</string>
+	<string name="Conf_NotUseAppLaunchConfig">Not Use AppLaunch Config</string>
+	<string name="Conf_Change">Change</string>
+	<string name="Conf_Swap">Swap</string>
+	<string name="Conf_Run"> Run </string>
+	
+	<!-- Check App Need Files -->
+	<string name="Need_Following">.</string>
+	<string name="Need_FilesAreMissing">Files Are Missing</string>
+	
+	
+	<string name="Game_Process">GameProcess:</string>
+    <string name="Game_Hours">h</string>
+    <string name="Game_Minutes">m</string>
+    <string name="Game_CurTime">CurrentTime: </string>
+    <string name="Game_AvailMemory">AvailMemory: </string>
+    <string name="Game_Battery">Battery: </string>
+    
+    <string name="VirtueButton_Tip">Virtual buttons can be arbitrary drag.</string>
+    <string name="Screenshot_Tip">Screenshot Succeed, Saved in</string>
+    <string name="AutoSave_Tip">Automatic archive has been opened. 3 minutes storage time, the default storage first gear. Does not support custom menu of the game.</string>
+	
+	<!-- Menu -->
+	<string name="Menu_Function">Text show Speed</string>
+	<string name="Menu_TouchMode">Touch Mode</string>
+	<string name="Menu_Quit">Quit Game</string>
+	
+	<string name="Menu_EnableAutoSave">Enable AutoSave</string>
+	<string name="Menu_DisableAutoSave">Disable AutoSave</string>
+	<string name="Menu_VirButton">Virtual Button</string>
+	<string name="Menu_LightSettings">Light Settings</string>
+	
+	<string name="Menu_AskQuit">Quit</string>
+	<string name="Menu_KeyConfig">Key Config</string>
+	<string name="Menu_SelectKeyFunction">Select Key Function</string>
+	<string name="Menu_EndMenuButton">End Menu Button</string>
+	<string name="Menu_PressKeyOrButton">Press Key Or Button</string>
+	<string name="Menu_MouseCursor">Mouse Cursor</string>
+	<string name="Menu_ButtonLeft">Button Left</string>
+	<string name="Menu_ButtonRight">Button Right</string>
+	<string name="Menu_ButtonTop">Button Top</string>
+	<string name="Menu_ButtonBottom">Button Bottom</string>
+	<string name="Menu_VideoXMargin">Video X-Margin</string>
+	<string name="Menu_VideoYMargin">Video Y-Margin</string>
+	<string name="Menu_VideoXPosition">Video X-Position</string>
+	<string name="Menu_VideoYPosition">Video Y-Position</string>
+	<string name="Menu_GamePadPosition">GamePad Position</string>
+	<string name="Menu_GamePadSize">GamePad Size</string>
+	<string name="Menu_GamePadOpacity">GamePad Opacity</string>
+	<string name="Menu_GamePadArrowButton">GamePad ArrowButton</string>
+	<string name="Menu_GamePadActionButton">GamePad Action Button</string>
+	<string name="Menu_AppLaunchConfig">ONS AppLaunchConfig</string>
+	
+	<string name="menu_settings">Settings</string>
+    <string name="title_activity_main">SAO UI</string>
+    <string name="alt_cover">Cover</string>
+    <string name="alt_background">Background</string>
+    <string name="alt_icon">Icon</string>
+    <string name="alt_about">About</string>
+    <string name="alt_settings">Settings</string>
+    <string name="alt_config">Config</string>
+    <string name="alt_play">Play</string>
+    <string name="notify_exit">Exit</string>
+    <string name="error_play_audio">Play Audio Error</string>
+    <string name="error_play_video">Play Video Error</string>
+    
+    <string name="error_repeated_playfail">Play Fail, Please Restart!</string>
+    
+    <string name="mediacontroller_play_pause">Play/Pause</string>
+    
+    <string name="version">\n Ver3.0.3 \n</string>
+
+	<string name="info">\n Ver3.0.3 \n</string>
+
+</resources>

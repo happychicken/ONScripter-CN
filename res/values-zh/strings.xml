@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiNE</string>
+    
+    <string name="private_version">1361373546.19</string>
+
+	<!-- Option -->
+	
+	<string name="Opt_ForceButtonShortcut">Force Button Shortcut</string>
+	<string name="Opt_DisableRescale">关闭缩放</string>
+	<string name="Opt_RenderFontOutline">字体描边</string>
+	
+	<!-- Environment -->
+	
+	<string name="Env_PDAWidth">Width (pda only)</string>
+
+    	<string name="go">go</string>
+    	<string name="nulltime">--:--:--</string>
+
+	<!-- Key -->
+	
+	<string name="Key_Space">空格</string>
+	<string name="Key_Enter">回车</string>
+	<string name="Key_Escape">ESC</string>
+	<string name="Key_LeftClick">左键</string>
+	<string name="Key_RightClick">右键</string>
+	<string name="Key_ForceSkip">强制快进</string>
+	<string name="Key_PrevChoice">上</string>
+	<string name="Key_NextChoice">下</string>
+	<string name="Key_WheelUp">左</string>
+	<string name="Key_WheelDown">右</string>
+	<string name="Key_SkipMode">快进模式</string>
+	<string name="Key_OnePage">显示一页</string>
+	<string name="Key_AutoMode">自动阅读模式</string>
+	<string name="Key_TextSpeedChange">改变文字显示速度</string>
+	<string name="Key_SlowTextSpeed">低速</string>
+	<string name="Key_NormalTextSpeed">普通</string>
+	<string name="Key_FastTextSpeed">快速</string>
+	<string name="button_vol_up">音量+</string>
+    	<string name="button_vol_down">音量-</string>
+	<string name="button_get_default_screenshot">截图</string>
+   	 <string name="button_get_full_screenshot">截图</string>
+	<string name="button_Menu">菜单</string>
+	<string name="button_hide_window">隐藏对话框</string>
+	
+	<!-- -->
+	
+	<string name="None">无</string>
+	
+	<string name="Enable">开启</string>
+	<string name="Disable">关闭</string>
+	
+	<string name="OK">确定</string>
+	<string name="Cancel">取消</string>
+	
+	<string name="Yes">是</string>
+	<string name="No">否</string>
+	
+	<string name="Use">使用</string>
+	<string name="NotUse">不使用</string>
+	
+	<string name="Left">左</string>
+	<string name="Right">右</string>
+	<string name="Up">上</string>
+	<string name="Down">下</string>
+	<string name="Top">顶部</string>
+	<string name="Bottom">底部</string>
+	<string name="Center">居中</string>
+	
+	<string name="LeftClick">左键</string>
+	<string name="RightClick">右键</string>
+	
+	<string name="Landscape">横屏显示</string>
+	<string name="Portrait">竖屏显示</string>
+	<string name="ReverseLandscape">翻转横屏显示</string>
+	<string name="ReversePortrait">翻转竖屏显示</string>
+	
+	<string name="Full">全屏</string>
+	<string name="Unknown">未知</string>
+	
+	<string name="Invalid">触摸无效</string>
+	<string name="Touch">触摸模式</string>
+	<string name="TrackPad">轨迹模式</string>
+	<string name="GamePad">手柄模式</string>
+	
+	<string name="Show">显示</string>
+	<string name="Hide">隐藏</string>
+	
+	<string name="unit">个</string>
+	
+	<string name="AsAxis">显示为轴心</string>
+	<string name="AsButton">显示为按钮</string>
+	
+	<string name="Key">键值</string>
+	<string name="Button">按钮</string>
+	
+	<string name="Error">错误</string>
+
+	<string name="Other">其它</string>
+	<string name="Quit">退出</string>
+	
+	
+	<!-- App Launcher -->
+	<string name="Launch_CurrentDirectory">当前目录</string>
+	<string name="Launch_ChangeDirectory">改变目录</string>
+	<string name="Launch_ChooseDirectory">选择目录</string>
+	<string name="Launch_SetDirectory">设置目录</string>
+	<string name="Launch_CouldNotOpenDirectory">无法打开目录</string>
+	
+	<!-- App Launch Config -->
+	<string name="Conf_ExecuteModule">版本选择</string>
+	<string name="Conf_VideoDepth">色位深度</string>
+	<string name="Conf_ScreenRatio">屏幕比例(重启生效)</string>
+	<string name="Menu_ScreenRatio">屏幕比例</string>
+	<string name="Conf_ScreenOrientation">屏幕方向</string>
+	<string name="Conf_SmoothVideo">平滑显示</string>
+	<string name="Conf_Linear">线性插值</string>
+	<string name="Conf_DontAskMeAgain">不再显示</string>
+	<string name="Conf_NotUseAppLaunchConfig">不使用设置</string>
+	<string name="Conf_Change">修改</string>
+	<string name="Conf_Swap">互换</string>
+	<string name="Conf_Run"> 运行 </string>
+	
+	<!-- Check App Need Files -->
+	<string name="Need_Following">.</string>
+	<string name="Need_FilesAreMissing">找不到以下文件</string>
+	
+	<string name="Game_Process">游戏已进行：</string>
+	<string name="Game_Hours">小时</string>
+	<string name="Game_Minutes">分钟</string>
+	<string name="Game_CurTime">当前时间：</string>
+	<string name="Game_AvailMemory">剩余内存：</string>
+	<string name="Game_Battery">剩余电量：</string>
+	
+    <string name="VirtueButton_Tip">虚拟按键可任意拖动</string>
+    <string name="Screenshot_Tip">截图成功，保存在</string>
+    <string name="AutoSave_Tip">自动存档已开启，3分钟存储一次，默认存储第一个档位。不支持自定义菜单的游戏。</string>
+	
+	<!-- Menu -->
+	<string name="Menu_Function">文字显示速度</string>
+	<string name="Menu_TouchMode">触摸模式</string>
+	<string name="Menu_Quit">退出游戏</string>
+	
+	<string name="Menu_EnableAutoSave">自动存档-已开启</string>
+	<string name="Menu_DisableAutoSave">自动存档-已关闭</string>
+	<string name="Menu_VirButton">虚拟按键</string>
+	<string name="Menu_LightSettings">亮度设置</string>
+	
+	<string name="Menu_AskQuit">退出</string>
+	<string name="Menu_KeyConfig">按键设置</string>
+	<string name="Menu_SelectKeyFunction">选择按键功能</string>
+	<string name="Menu_EndMenuButton">按菜单键或点击此处结束</string>
+	<string name="Menu_PressKeyOrButton">点击一个按键</string>
+	<string name="Menu_MouseCursor">鼠标指针</string>
+	<string name="Menu_ButtonLeft">按键 (左)</string>
+	<string name="Menu_ButtonRight">按键 (右)</string>
+	<string name="Menu_ButtonTop">按键 (顶部)</string>
+	<string name="Menu_ButtonBottom">按键 (底部)</string>
+	<string name="Menu_VideoXMargin">屏幕 X-边距</string>
+	<string name="Menu_VideoYMargin">屏幕 Y-边距</string>
+	<string name="Menu_VideoXPosition">屏幕 X-位置</string>
+	<string name="Menu_VideoYPosition">屏幕 Y-位置</string>
+	<string name="Menu_GamePadPosition">手柄位置</string>
+	<string name="Menu_GamePadSize">手柄大小</string>
+	<string name="Menu_GamePadOpacity">手柄透明度</string>
+	<string name="Menu_GamePadArrowButton">手柄方向按钮</string>
+	<string name="Menu_GamePadActionButton">手柄功能按钮</string>
+	<string name="Menu_AppLaunchConfig">ons设置显示</string>
+	
+	<string name="menu_settings">Settings</string>
+    <string name="title_activity_main">SAO用户界面</string>
+    <string name="alt_cover">封面图片</string>
+    <string name="alt_background">背景</string>
+    <string name="alt_icon">图标</string>
+    <string name="alt_about">关于</string>
+    <string name="alt_settings">设置</string>
+    <string name="alt_config">选项</string>
+    <string name="alt_play">运行</string>
+    <string name="notify_exit">再按一次回退键退出</string>
+    <string name="error_play_audio">播放主题音乐时出现错误，播放取消</string>
+    <string name="error_play_video">播放预览视频时出现错误，播放取消</string>
+    
+    <string name="error_repeated_playfail">如果您一直出现播放问题，我们建议您使用菜单中的\'退出\'彻底退出程序并重新启动</string>
+    
+    <string name="mediacontroller_play_pause">Play/Pause</string>
+    
+    <string name="version">\n Ver3.0.3 \n</string>
+
+	<string name="info">\n Ver3.0.3更新 \n</string>
+
+</resources>
